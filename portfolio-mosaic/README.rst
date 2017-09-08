@@ -1,3 +1,4 @@
+```
 python mosaic_script.py -t "<td colspan={obj_colspan} rowspan={obj_rowspan} class=\"oe_product oe_grid oe-height-{obj_rowspan}\">" \
 "<div class=\"thumbs  products_grid oe_product_image oe-height-{obj_rowspan}\">"\
         "<div class=\"caption\">" \
@@ -40,4 +41,4 @@ $'{"id": 27, "name": "Restricted administration rights", "categ": "Access", "dat
 $'{"id": 28, "name": "Limit number of records", "categ": "Access", "date": "July 2016", "link": "https://github.com/it-projects-llc/access-addons/tree/10.0/access_limit_records_number", "image": "https://static.it-projects.info/portfolio/limit_number.png", "w": 2, "h": 2, "desc": "Forbid to user to create more number of records, than he is allowed. For example, restrict amount of users (useful in SaaS)."}' \
 $'{"id": 29, "name": "SEO URLs in eCommerce", "categ": "Ecommerce", "date": "June 2016", "link": "https://apps.odoo.com/apps/modules/8.0/website_seo_url_product/", "image": "https://static.it-projects.info/portfolio/seo_urls_in_ecommerce.png", "w": 2, "h": 2, "desc": "Customisable URLs for product pages"}' \
 $'{"id": 30, "name": "Web Login Background", "categ": "Ecommerce", "date": "October 2015", "link": "https://www.odoo.com/apps/modules/10.0/web_login_background/", "image": "https://static.it-projects.info/portfolio/web_login_background.png", "w": 2, "h": 2, "desc": "Beatiful random backgrounds at the login page completely changes user experience"}' > mosaic.html
-
+```
