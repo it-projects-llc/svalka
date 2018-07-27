@@ -1,0 +1,25 @@
+# config for https://houndci.com
+scss:
+  enabled: false
+
+rubocop:
+  enabled: false
+
+eslint:
+  enabled: true
+  config_file: .eslintrc
+
+jshint:
+  enabled: true
+  # config_file: .jshintrc
+
+coffeescript:
+  enabled: false
+
+flake8:
+  enabled: true
+  # config_file: .flake8.ini
+
+shellcheck:
+  enabled: true
+  config_file: .shellcheck.yml
