@@ -8,9 +8,11 @@ rubocop:
 eslint:
   enabled: true
   config_file: .eslintrc
+  ignore_file: .eslintignore
 
 jshint:
   enabled: true
+  ignore_file: .javascript_ignore
   # config_file: .jshintrc
 
 coffeescript:
