@@ -240,7 +240,7 @@
     "wrap-iife": "error",
     "wrap-regex": "error",
     "yield-star-spacing": "off",
-    "yoda": "error"
+    "yoda": [2, "never", { "onlyEquality": true }]
   },
   "parserOptions": {},
 }
