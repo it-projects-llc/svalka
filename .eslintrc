@@ -3,6 +3,8 @@
     "$": false,
     "_": false,
     "jQuery": false,
+    "d3": false,
+    "nv": false,
     "odoo": false,
     "openerp": false,
     "self": false
